@@ -1,7 +1,7 @@
 ACCESS_AKID = "your akid"
 ACCESS_AKKEY = "your akkey"
-ACCESS_TOKEN = "ca4fce2cdbf1469eb9e7b07d75ab8389"
-ACCESS_APPKEY = "UINMrTV12F26cfIM"
+ACCESS_TOKEN = ""
+ACCESS_APPKEY = ""
 URL = "wss://nls-gateway.cn-shanghai.aliyuncs.com/ws/v1"
 
 WEATHER_KEY = "e0fd120277ddffbe0f97f3bdde281ab3"
